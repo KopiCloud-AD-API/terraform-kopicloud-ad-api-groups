@@ -3,7 +3,11 @@
 
 ## Code creates:
 
-TBC
+- List All AD Groups
+- Create AD Security Groups
+- List AD Security Groups
+- Create AD Distribution Groups
+- List AD Distribution Groups
 
 ## How to use this code:
 
