@@ -6,7 +6,7 @@
 terraform {
   required_providers {
     kopicloud = {
-      source  = "https://github.com/KopiCloud-AD-API/terraform-provider-kopicloud-ad-api"
+      source  = "kopicloud-ad-api/ad"
     }
   }
 }
@@ -16,4 +16,3 @@ provider "kopicloud" {
   host  = var.kopicloud_host
   token = var.kopicloud_token
 }
-
