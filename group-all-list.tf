@@ -3,8 +3,7 @@
 ################################################
 
 # Get All Security Groups
-data "kopicloud_security_group_list" "test_all" {
-}
+data "kopicloud_security_group_list" "test_all" { }
 
 # Returns All Security Groups
 output "OUTPUT_security_kopicloud_all_groups" {
